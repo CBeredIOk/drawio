@@ -12,6 +12,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="onGUmNa2HDrF9_WzgU1q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGrtgn9L7tVtQ5_F4s7t-2" target="oGrtgn9L7tVtQ5_F4s7t-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oGrtgn9L7tVtQ5_F4s7t-2" value="Tooth Fairy" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-48" y="190" width="110" height="50" as="geometry" />
         </mxCell>
